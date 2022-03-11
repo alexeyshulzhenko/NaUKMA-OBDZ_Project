@@ -31,7 +31,7 @@ memoized-property==1.0.2
 mendeley==0.3.2
 oauthlib==0.7.2
 packaging==16.8
-Pillow==2.6.2
+Pillow==9.0.1
 psycopg2==2.6
 pycodestyle==2.0.0
 pydocstyle==1.1.1
