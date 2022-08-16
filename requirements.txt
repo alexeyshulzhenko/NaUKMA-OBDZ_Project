@@ -39,7 +39,7 @@ pyflakes==1.2.3
 pyparsing==2.1.10
 python-dateutil==2.5.3
 python-decouple==2.3
-python-docx==0.8.5
+python-docx==0.8.6
 python-mimeparse==1.6.0
 pytz==2015.4
 rcssmin==1.0.6
